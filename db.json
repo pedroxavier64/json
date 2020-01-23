@@ -4,7 +4,7 @@
         "debt": 100
     },
     "billingCycles": [
-        {"id": 1, "Name": "Janeiro/20", "Month":1, "Year":"2020"},
+        {"id": 1, "Name": "Janeiro/20", "Month":1, "Year":"2020"}
         "debts": [
             {"id": 1, "Name": "Telefone", "Status":"Pago", "Value":100.00}
         ]
