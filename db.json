@@ -1,14 +1,14 @@
 {
     "billingCycles": [
-        {"id": 1, "Name": "Janeiro/20", "Month":1, "Year":"2020",
+        { "Name": "Janeiro/20", "Month":1, "Year":"2020",
             "credits": [
-                {"id": 1, "Name": "Transferência", "Status":"Recebido", "Value":1000.00},
-                {"id": 2, "Name": "Salário", "Status":"Recebido", "Value":1500.00}
+                {"Name": "Transferência", "Status":"Recebido", "Value":1000.00},
+                {"Name": "Salário", "Status":"Recebido", "Value":1500.00}
             ]
             ,
             "debts": [
-                {"id": 1, "Name": "Telefone", "Status":"Pago", "Value":100.00},
-                {"id": 2, "Name": "Internet", "Status":"Pago", "Value":150.00}
+                {"Name": "Telefone", "Status":"Pago", "Value":100.00},
+                {"Name": "Internet", "Status":"Pago", "Value":150.00}
             ]
         }
     ] 
