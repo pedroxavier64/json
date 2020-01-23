@@ -1,15 +1,17 @@
-{
-    "billingCycles": {
-        "Name": "Janeiro/20", "Month":1, "Year":"2020",
-        "credits": [
-            {"Name": "Transferência", "Status":"Recebido", "Value":1000.00},
-            {"Name": "Salário", "Status":"Recebido", "Value":1500.00}
-        ]
-        ,
-        "debts": [
-            {"Name": "Telefone", "Status":"Pago", "Value":100.00},
-            {"Name": "Internet", "Status":"Pago", "Value":150.00}
-        ]
+[
+    {
+        "billingCycles": {
+            "Name": "Janeiro/20", "Month":1, "Year":"2020",
+            "credits": [
+                {"Name": "Transferência", "Status":"Recebido", "Value":1000.00},
+                {"Name": "Salário", "Status":"Recebido", "Value":1500.00}
+            ]
+            ,
+            "debts": [
+                {"Name": "Telefone", "Status":"Pago", "Value":100.00},
+                {"Name": "Internet", "Status":"Pago", "Value":150.00}
+            ]
+        }
     }
-}
+]
 
