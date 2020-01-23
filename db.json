@@ -1,3 +1,4 @@
+{
 "billingCycles": {
             "Name": "fevereiro/20", "Month":2, "Year":"2020",
             "credits": [
@@ -10,3 +11,4 @@
                 {"Name": "Internet", "Status":"Pago", "Value":200.00}
             ]
         }
+}
